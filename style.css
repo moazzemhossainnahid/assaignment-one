@@ -90,16 +90,16 @@ p {
     width: 300px;
     padding: 20px;
     margin: 20px;
-    background: #add8e6;
+    background: linear-gradient(to bottom, #0f87878e, #ff004886);
     border-radius: 15px;
 }
 
 .content2 {
-    background: #ffb6c1;
+    background: linear-gradient(to right, #0f87878e, #ff004886);
 }
 
 .content3 {
-    background: #fdfdcb;
+    background: linear-gradient(to top, #0f87878e, #ff004886);
 }
 
 .content img {
